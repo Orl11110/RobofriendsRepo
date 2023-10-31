@@ -18,6 +18,11 @@ class App extends Component {
     fetch('https://jsonplaceholder.typicode.com/users')
       .then(response=> response.json())
       .then(users => {this.setState({ robots: users})});
+
+
+      fetch('http://jsonplaceholder.typicode.com/todos/1')
+      .then(response => response.json())
+      .then(json => console.log(json));
   }
 
   onSearchChange = (event) => {
