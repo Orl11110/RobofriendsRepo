@@ -11,3 +11,6 @@ https://www.agoda.com/shore-1-residence-tower-c2-moa/hotel/all/manila-ph.html?lo
 https://www.agoda.com/city-park-hotel-manila_2/hotel/manila-ph.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1891467&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2024-03-30&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=PHP&isFreeOccSearch=false&tag=0c95d66c-de05-b0a0-f75f-fc58aaa44635&isCityHaveAsq=false&tspTypes=7%2C3%2C8&los=1&searchrequestid=3f552377-04a5-4ba6-b386-f10e1e9baeed&ds=Is%2FxCVVu3SH90fzK
 
 *visist https://zerotomastery.io/ for more*
+
+
+https://www.agoda.com/condo-unit-in-front-of-ust-1-3-pax/hotel/manila-ph.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2024-03-29&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=PHP&isFreeOccSearch=false&isCityHaveAsq=false&los=1&searchrequestid=88edcc02-0fed-4eae-84ec-33547294948e&ds=Wasqi%2FgW1xDl4Azu
